@@ -30,9 +30,9 @@ Based on the Airbnb data available, I will use the notebooks to answer the quest
 ## File Descriptions <a name="files"></a>
 Two notebooks are provided to address the questions above:
 
-First project-Q1&Q2.py — covers questions 1 and 2.
+First project-Q1&Q2.ipynb — covers questions 1 and 2.
 
-First project-Q3.py — covers question 3.
+First project-Q3.ipynb — covers question 3.
 
 Both notebooks include markdown cells that explain the reasoning and workflow step by step, and contain images to illustrate key results.
 
